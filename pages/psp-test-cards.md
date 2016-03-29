@@ -21,6 +21,14 @@ CVV2: 123
 ```
 
 ## Egopay
+Ссылки на панель управления:
+* [боевая среда](https://secure.sirena-travel.ru/eGo/auth/index),
+* [тестовая среда](https://sandbox.egopay.ru/eGo/auth/index).
+
+### Контакты
+Служба поддержки: support@egopay.ru
+
+### Тестовые карты
 Тестовая карта для проведения успешной авторизации.
 ```
 Card: 5100 0000 0000 0008
