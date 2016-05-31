@@ -1,5 +1,13 @@
 # Meta
 
+API documentation: http://docs.dameta.apiary.io/
+
+## API: Open routes
+Check open routes requests in kibana
+```
+_type:"logs-nginx-meta" AND request:"/v2/meta/routes"
+```
+
 ## Flight routes import (sql)
 ```
 TRUNCATE TABLE flight_routes;
